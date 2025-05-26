@@ -1,7 +1,7 @@
-# Previsão de Vendas com Regressão Linear
+# Previsão de Valores com Regressão Linear
 
 ## Descrição
-Um programa em Rust que usa regressão linear simples para prever vendas com base em dados históricos.
+Um programa em Rust que usa regressão linear simples para prever Valores com base em dados históricos.
 
 ## Tecnologias
 - Rust
@@ -17,7 +17,7 @@ cargo run
 ## Funcionalidades
 - Calcula a média de valores.
 - Determina a inclinação e o intercepto de uma regressão linear.
-- Prevê vendas futuras.
+- Prevê Valores futuros.
 - Analisa tendências e compara com metas.
 
 Desenvolvido por Yuri de Oliveira Melo
